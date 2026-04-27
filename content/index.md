@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Haruto Digital Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# ハルトのデジタルガーデンへようこそ
+
+ここでは、僕が学んでいる**有機化学**の知識、**ストア派哲学**の実践、そして**投資や健康**についての記録をストックしていきます。
+
+## 現在のテーマ
+- 化学の研究メモ
+- 16時間断食の記録
+- 効率的な時間管理術
